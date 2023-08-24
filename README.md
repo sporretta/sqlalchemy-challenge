@@ -16,6 +16,6 @@ The purpose of this project is to practice the new techniques learned in this we
 
 ## Contributing
 
-Simon Rennocks -->UNC Tutor --> help on graph formatting and dictionaries
-Classwork --> helped with syntax and predefined functions to use
+Simon Rennocks -->UNC Tutor --> help on graph formatting and dictionaries. He also reviewed sosme class examples with me to understand flask better.
+Classwork --> helped with syntax and predefined functions to use for sqlalchemy
 
